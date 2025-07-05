@@ -1,12 +1,12 @@
 # Cloudbit Tech Solutions Internship Program 🚀
 
-Welcome to the official internship repository of **Cloudbit Tech Solutions**. This repository is designed to guide students through our project-based internship program across multiple modern technology domains.
+Welcome to the official internship repository of **Cloudbit Tech Solutions**. This repository is the source code of our main website which is heavily inspired by [TemplateMo 569](https://templatemo.com/tm-569-edu-meeting)
 
 ---
 
 ## 📘 About the Program
 
-The Cloudbit internship initiative aims to give students hands-on experience by working on industry-relevant projects. Each student is assigned a domain and must choose one project to complete over the course of **1 month**.
+The Cloudbit internship initiative aims to give students hands-on experience by working on industry-relevant projects. Each student is assigned a domain and must complete some projects over the course of **Internship Duration**.
 
 ---
 
@@ -24,17 +24,14 @@ The Cloudbit internship initiative aims to give students hands-on experience by 
 
 ## 🔧 How to Use
 
-1. **Browse through the domains** in this repository.
-2. **Choose one project** from your assigned domain.
-3. **Start building!** Follow the guidelines in your project brief.
-4. **Submit your final work** as per the internship instructions.
-5. **Receive a certificate** on successful completion from Cloudbit Tech Solutions.
+Coming soon!
 
 ---
 
 ## 🏷️ Domains Included
 
 Some of the domains covered:
+
 - Cyber Security & Ethical Hacking
 - Internet of Things (IoT)
 - Cloud Computing
@@ -51,7 +48,7 @@ Some of the domains covered:
 ## 📨 Contact
 
 Have questions or want to connect?  
-📧 Email: **netsynthsolutions@gmail.com**
+📧 Email: **<netsynthsolutions@gmail.com>**
 
 ---
 <!-- 
