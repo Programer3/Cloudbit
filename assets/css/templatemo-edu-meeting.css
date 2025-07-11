@@ -914,7 +914,7 @@ section.upcoming-meetings .categories h4 {
   font-size: 18px;
   font-weight: 600;
   color: #1f272b;
-  margin-bottom: 385px;
+  margin-bottom: 0px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
 }
@@ -1011,7 +1011,8 @@ section.upcoming-meetings .categories .main-button-red a {
 }
 
 .meeting-item .down-content p {
-  margin-left: 50px;
+  text-align: justify;
+  margin-left: 20px;
   color: #1f272b;
   font-size: 14px;
 }
